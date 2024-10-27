@@ -9,8 +9,6 @@
 
 - 📫 Contact me **abhinavrajat1229@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QUjLH5oSlrtXUtqUu8tYpGTJNyHgtYRg/view?usp=share_link](https://drive.google.com/file/d/1QUjLH5oSlrtXUtqUu8tYpGTJNyHgtYRg/view?usp=share_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/abhinav1229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhinav1229" height="30" width="40" /></a>
