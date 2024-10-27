@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Unity Game Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav1229&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav1229" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, TailwindCSS**
+- 🌱 I’m currently learning **Unity Game Engine, C#, Godot Engine, and Fundamentals of Programming**
 
-- 💬 Ask me about **MERN, C/C++, JavaScript**
+- 💬 Ask me about **Game Development and MERN Stack**
 
-- 📫 How to reach me **abhinavrajat1229@gmail.com**
+- 📫 Contact me **abhinavrajat1229@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QUjLH5oSlrtXUtqUu8tYpGTJNyHgtYRg/view?usp=share_link](https://drive.google.com/file/d/1QUjLH5oSlrtXUtqUu8tYpGTJNyHgtYRg/view?usp=share_link)
 
